@@ -1,5 +1,5 @@
 package week4;
-public class PatternGeneratorWithEarlyExit {
+public class PatternGeneratorWIthEarlyExit {
     public static void main(String[] args) {
         System.out.println("=========== PATTERN GENERATOR WITH EARLY EXIT ============");
         
@@ -31,8 +31,7 @@ public class PatternGeneratorWithEarlyExit {
         System.out.println("==========================================================");
         
         /*
-        MGA MALINAW NA KOMENTO SA MGA LTR/LINYA:
-         * - Ang 'continue' statement ay ginamit sa row == 3 para laktawan ang buong proseso 
+         * - Ang 'continue' statement po ay ginamit sa row == 3 para laktawan ang buong proseso 
          *   ng pag-print para sa row na iyon at agad na ibalik ang takbo sa panlabas na loop.
          * - Ang 'break' statement ay ginamit sa col == 4 para putulin at itigil nang maaga 
          *   ang pag-ikot ng inner loop kapag naabot na ang kolum na ito, kahit hindi pa tapos ang kabuuang sukat.
