@@ -1,3 +1,4 @@
+package week2;
 public class PrecedencePuzzleSolver {
     public static void main(String[] args) {
         System.out.println("=========== PRECEDENCE PUZZLE SOLVER ============");

@@ -1,3 +1,4 @@
+package week4;
 public class PatternGeneratorWithEarlyExit {
     public static void main(String[] args) {
         System.out.println("=========== PATTERN GENERATOR WITH EARLY EXIT ============");

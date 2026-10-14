@@ -1,3 +1,4 @@
+package week4;
 public class NumberSquarePrinter {
     public static void main(String[] args) {
 

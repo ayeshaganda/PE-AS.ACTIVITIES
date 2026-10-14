@@ -16,7 +16,7 @@ public class CompoundGrowthTracker {
         System.out.println("After adding deposit (+= 500.0)    : ₱" + balance);
         System.out.println("-------------------------------------------------");
         
-        
+    
         System.out.println("[Testing count++]");
         int count = 5;
         System.out.println("Original count (count++): " + count++); 

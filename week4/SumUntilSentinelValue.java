@@ -1,6 +1,7 @@
 package week4;
 public class SumUntilSentinelValue {
     public static void main(String[] args) {
+        
         System.out.println("=========== SUM UNTIL SENTINEL VALUE ===========");
         
         
