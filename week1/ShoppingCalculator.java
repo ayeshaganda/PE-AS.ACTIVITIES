@@ -5,7 +5,7 @@ public class ShoppingCalculator
         
         int quantity = 4;
         double unitPrice = 50.99;
-        // THIS should not be declared as an int because unitPrice has decimal places (double). 
+        // This should not be declared as an int because unitPrice has decimal places (double). 
 
         String storeName = "Ayesha Ganda Store";
         double totalCost = quantity * unitPrice;
