@@ -26,9 +26,9 @@ public class FourFunctionCalculator
        
     /*
      * - The Modulus operator (%) can be affected because it follows the sign 
-     *   of the first number (dividend). If the first number is negative, the result can be negative.
+     of the first number (dividend). If the first number is negative, the result can be negative.
      * - Division (/) also maintains sign rules where a negative quotient 
-     *   appears when only one of them is negative.
+      appears when only one of them is negative.
      */
     }
 }
