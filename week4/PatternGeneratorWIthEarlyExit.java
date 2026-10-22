@@ -4,7 +4,7 @@ public class PatternGeneratorWIthEarlyExit {
         System.out.println("=========== PATTERN GENERATOR WITH EARLY EXIT ============");
         
         int size = 5;
-        
+         
         for (int row = 1; row <= size; row++) {
             
             if (row == 3) {
