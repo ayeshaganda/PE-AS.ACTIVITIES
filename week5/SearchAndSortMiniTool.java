@@ -20,7 +20,7 @@ public class SearchAndSortMiniTool {
             if (studentScores[i] == targetValue) {
                 foundIndex = i;
                 break; 
-            }
+            } 
         }
         
         if (foundIndex != -1) {
