@@ -5,7 +5,7 @@ public class AtmTransactionAuthorizer {
         String inputUsername = "ayesha1122";
         int inputPin = 1122;
         
-        double accountBalance = 5000.00; 
+        double accountBalance = 5000.00;
         double withdrawalAmount = 3500.00; 
         
         String accountTier; 
